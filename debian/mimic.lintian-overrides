@@ -1,0 +1,4 @@
+# LA files will be removed in the next mimic release with the removal of libicu
+mimic: non-empty-dependency_libs-in-la-file
+# As mimic is a TTS engine, there are multiple phonetic spellings in the code
+mimic: spelling-error-in-binary

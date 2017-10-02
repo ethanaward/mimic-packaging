@@ -1,0 +1,11 @@
+# see git-dpm(1) from git-dpm package
+d3e0dd11ef4a0247884eb945db20207d26760e42
+d3e0dd11ef4a0247884eb945db20207d26760e42
+d3e0dd11ef4a0247884eb945db20207d26760e42
+d3e0dd11ef4a0247884eb945db20207d26760e42
+mimic_1.2.0.2.orig.tar.gz
+700b31804d17d80cf913a05df94d9878756679c3
+457566733
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"

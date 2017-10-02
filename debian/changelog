@@ -1,0 +1,5 @@
+mimic (1.2.0.2-1) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #869106)
+
+ -- Mycroft Devs <devops@mycroft.ai>  Wed, 26 Jul 2017 15:34:47 -0500
